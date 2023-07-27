@@ -1,0 +1,9 @@
+.size{
+    width: 60px;
+    height: 80px;
+}
+.pointer {cursor: pointer;}
+.size:hover{
+    background-color: rgb(189, 64, 64);
+    color: rgb(236, 186, 94);
+}
